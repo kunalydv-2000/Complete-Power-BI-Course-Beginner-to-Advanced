@@ -1,3 +1,11 @@
+<div align="center">
+  <!--Banner-->
+  <img src="https://github.com/kunalydv-2000/Complete-Power-BI-Course-Beginner-to-Advanced/blob/6ab1cae3bd22a39f29e5afffd365be22e3d64dea/Premium-animated-Power-BI-Learning-Roadmap-infographic_-futuristic-dark-theme-roadmap-guiding-learne.gif" 
+       height="180" 
+       width="400" 
+       alt="kunalydv-2000 Python">
+</div>
+
 # 📊 Complete Power BI Course: Beginner to Advanced
 
 A comprehensive Power BI learning roadmap covering Business Intelligence fundamentals, data modeling, Power Query, DAX, dashboard development, Power BI Service, advanced analytics, and real-world portfolio projects.
